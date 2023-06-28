@@ -1,12 +1,9 @@
 ## Hi there 👋
+<h2>Account API</h2>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Jobs  | Status |
+| ------------- | ------------- |
+| Test  | ![workflow](https://github.com/Salary-Hero/account-api/actions/workflows/.github/workflows/test.yaml/badge.svg) |
+| Deploy Develop  | ![workflow](https://github.com/Salary-Hero/account-api/actions/workflows/.github/workflows/ci-cd.yaml/badge.svg?branch=develop)  |
+| Deploy Staging  | ![workflow](https://github.com/Salary-Hero/account-api/actions/workflows/.github/workflows/ci-cd.yaml/badge.svg?branch=staging)  |
+| Deploy Production  | ![workflow](https://github.com/Salary-Hero/account-api/actions/workflows/.github/workflows/ci-cd.yaml/badge.svg?branch=main)  |
